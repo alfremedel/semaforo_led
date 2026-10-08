@@ -33,8 +33,7 @@ sudo apt update
 sudo apt install python3-gpiozero
 Clonar el repositorio:
 
-Bash
-git clone https://github.com/alfremedel/semaforo_led.git
+
 cd semaforo_led
 Ejecutar el script del semáforo:
 
